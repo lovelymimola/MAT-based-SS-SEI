@@ -6,7 +6,7 @@ pytorch 1.10.2
 python 3.6.13
 
 # Framework of MAT
-![Framework of MAT](https://github.com/lovelymimola/MAT-based-SS-SEI/Figures/MAT_Pipeline.pdf)
+![Framework of MAT](https://github.com/lovelymimola/MAT-based-SS-SEI/tree/master/Figures/MAT_Pipeline.pdf)
 
 # Dataset
 We use the dataset proposed in paper [55] and [56] to evaluate our proposed MAT-based SS-SEI method. The former is a large-scale real-world radio signal dataset based on
@@ -25,12 +25,12 @@ and 6,000, respectively. The number of training samples of ADS-B dataset and WiF
  MAT-PA | 74.00% | 84.80% | 28.82% | 54.96%
 
 # Features Visualization
-![Features Visualization of CNN](https://github.com/lovelymimola/MAT-based-SS-SEI/Figures/CNN_n_classes_16_10label_90unlabel_improved.png)
-![Features Visualization of DRCN](https://github.com/lovelymimola/MAT-based-SS-SEI/Figures/DRCN_complex_n_classes_16_10label_90unlabel_improved.png)
-![Features Visualization of SSRCNN](https://github.com/lovelymimola/MAT-based-SS-SEI/Figures/SSRCNN_n_classes_16_10label_90unlabel_improved.png)
-![Features Visualization of TripleGAN](https://github.com/lovelymimola/MAT-based-SS-SEI/Figures/TripleGAN_n_classes_16_10label_90unlabel_improved.png)
-![Features Visualization of SimMIM](https://github.com/lovelymimola/MAT-based-SS-SEI/Figures/SimMIM_encoder_mask05_n_classes_16_label10_improved.png)
-![Features Visualization of MAT](https://github.com/lovelymimola/MAT-based-SS-SEI/Figures/CNN_MAT_n_classes_16_10label_90unlabel_improved.png)
+![Features Visualization of CNN](https://github.com/lovelymimola/MAT-based-SS-SEI/tree/master/Figures/CNN_n_classes_16_10label_90unlabel_improved.png)
+![Features Visualization of DRCN](https://github.com/lovelymimola/MAT-based-SS-SEI/tree/master/Figures/DRCN_complex_n_classes_16_10label_90unlabel_improved.png)
+![Features Visualization of SSRCNN](https://github.com/lovelymimola/MAT-based-SS-SEI/tree/master/Figures/SSRCNN_n_classes_16_10label_90unlabel_improved.png)
+![Features Visualization of TripleGAN](https://github.com/lovelymimola/MAT-based-SS-SEI/tree/master/Figures/TripleGAN_n_classes_16_10label_90unlabel_improved.png)
+![Features Visualization of SimMIM](https://github.com/lovelymimola/MAT-based-SS-SEI/tree/master/Figures/SimMIM_encoder_mask05_n_classes_16_label10_improved.png)
+![Features Visualization of MAT](https://github.com/lovelymimola/MAT-based-SS-SEI/tree/master/Figures/CNN_MAT_n_classes_16_10label_90unlabel_improved.png)
 
 # E-mail
 1020010415@njupt.edu.cn
