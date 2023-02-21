@@ -17,7 +17,7 @@ and 6,000, respectively. The number of training samples of ADS-B dataset and WiF
 
 [56] K. Sankhe, M. Belgiovine, F. Zhou, S. Riyaz, S. Ioannidis, and K. Chowdhury, “ORACLE: Optimized radio classification through convolutional neural networks,” in IEEE Conf. Comput. Commun., Apr.2019, pp. 370-378.
 
-The dataset can be downloaded from the link 
+The dataset can be downloaded from the link https://pan.baidu.com/s/1aah2mh9sJvtXs6XjKkxLZQ and the password is biv8.
 
 # Classification Accuracy
  Methods  | ADS-B (5%) | ADS-B (10%) | WiFi (5%) | WiFi (10%)
@@ -39,4 +39,4 @@ The dataset can be downloaded from the link
 ![Features Visualization of MAT](https://github.com/lovelymimola/MAT-based-SS-SEI/blob/master/Figures/CNN_MAT_n_classes_16_10label_90unlabel_improved.png)
 
 # E-mail
-1020010415@njupt.edu.cn
+If you have any question, please feel free to contact us by e-mail (1020010415@njupt.edu.cn).
