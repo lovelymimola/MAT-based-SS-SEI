@@ -32,11 +32,28 @@ The dataset can be downloaded from the Link: https://pan.baidu.com/s/13qW5mnfgUH
 
 # Features Visualization
 ![Features Visualization of CNN](https://github.com/lovelymimola/MAT-based-SS-SEI/blob/master/Figures/CNN_n_classes_16_10label_90unlabel_improved.png)
+
+CVNN
+
 ![Features Visualization of DRCN](https://github.com/lovelymimola/MAT-based-SS-SEI/blob/master/Figures/DRCN_complex_n_classes_16_10label_90unlabel_improved.png)
+
+DRCN
+
 ![Features Visualization of SSRCNN](https://github.com/lovelymimola/MAT-based-SS-SEI/blob/master/Figures/SSRCNN_n_classes_16_10label_90unlabel_improved.png)
+
+SSRCNN
+
 ![Features Visualization of TripleGAN](https://github.com/lovelymimola/MAT-based-SS-SEI/blob/master/Figures/TripleGAN_n_classes_16_10label_90unlabel_improved.png)
+
+TripleGAN
+
 ![Features Visualization of SimMIM](https://github.com/lovelymimola/MAT-based-SS-SEI/blob/master/Figures/SimMIM_encoder_mask05_n_classes_16_label10_improved.png)
+
+SimMIM
+
 ![Features Visualization of MAT](https://github.com/lovelymimola/MAT-based-SS-SEI/blob/master/Figures/CNN_MAT_n_classes_16_10label_90unlabel_improved.png)
+
+MAT
 
 # E-mail
 If you have any question, please feel free to contact us by e-mail (1020010415@njupt.edu.cn).
